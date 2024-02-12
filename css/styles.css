@@ -219,3 +219,16 @@ header h2 {
 		box-shadow: 0 4px 16px 0 rgba(22, 42, 90, 0.09);
 	}
 }
+
+.not-found-message {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    font-weight: 900;
+}
+
+.hide {
+    display: none;
+}
